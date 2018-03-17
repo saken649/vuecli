@@ -25,5 +25,12 @@ export default {
       this.msg = ''
     }
   }
+  // 一旦別枠で考えることにする
+  // mounted: function () {
+  //   // var that = this
+  //   $.getJSON('http://zipcloud.ibsnet.co.jp/api/search?zipcode=1500001', {}, function (json) {
+  //     console.log(json)
+  //   })
+  // }
 }
 </script>
